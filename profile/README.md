@@ -37,6 +37,4 @@ We build websites, web apps, mobile apps, desktop software, and IoT solutions th
 
 *&copy; 2024 Griya Srawung*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,50:1b6ca8,100:0f4c75&height=100&section=footer" />
-
 </div>
